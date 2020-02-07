@@ -1,0 +1,35 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: brown;
+}
+
+header {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+#msg {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+table {
+    margin: auto;
+    border-style: dashed;
+    border-spacing: 10px;
+}
+
+table td {
+    padding: 70px;
+    background-color: gray;
+}
+
+#replay {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px;
+    background-color: gray;
+    padding: 5px;
+}
